@@ -4,6 +4,8 @@
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 # And More
 
+# And so on
+
 version: 2
 updates:
   - package-ecosystem: "" # See documentation for possible values
